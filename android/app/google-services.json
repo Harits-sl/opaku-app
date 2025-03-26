@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54429974445",
+    "project_id": "opaku-app-9f98e",
+    "storage_bucket": "opaku-app-9f98e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54429974445:android:c207f42d70dd367da3ab24",
+        "android_client_info": {
+          "package_name": "com.example.opaku_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43kIGwCXA1arZDoht3RFIy5r25-hOzyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
